@@ -23,5 +23,5 @@ return phrase
 end
 
 def pizza_party("cheese")
-
+return "cheese"
 end
