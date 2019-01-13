@@ -1,20 +1,20 @@
 def division(num1, num2)
- 
+num1/num2
 end
 
-def assign_variable(value)
-  
+def assign_variable(value = "Bob")
+value
 end
 
-def argue
-  
-end
-
-def greeting
+def argue(value)
 
 end
 
-def return_a_value
+def greeting()
+
+end
+
+def return_a_value(nice)
 
 end
 
