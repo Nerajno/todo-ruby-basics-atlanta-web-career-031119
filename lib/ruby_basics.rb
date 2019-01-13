@@ -7,7 +7,7 @@ value
 end
 
 def argue(value)
-value
+return value
 end
 
 def greeting()
