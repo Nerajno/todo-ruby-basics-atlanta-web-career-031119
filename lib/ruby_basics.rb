@@ -18,7 +18,7 @@ def return_a_value(nice = "Nice")
 return  nice
 end
 
-def last_evaluated_value
+def last_evaluated_value(phrase)
 
 end
 
